@@ -60,6 +60,7 @@ The analysis re-evaluated the viaduct using Annual Reliability Targets for Conse
 zijlweg-bayesian-reliability/
 │
 ├── README.md
+├── Mekonnen_2026_Bayesian_Updating_of_Bridge_Structural_Reliability_Using_Monitoring_Data_Stop_Criteria_and_Proof_Load_Testing_A_Case_Study_of_the_Zijlweg_Viaduct.pdf
 │
 ├── code/
 │   ├── cpp/
