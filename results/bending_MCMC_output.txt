@@ -1,0 +1,17 @@
+=== ZIJLWEG VIADUCT - BENDING RELIABILITY ANALYSIS ===
+M_y_mean = 3248.87 kNm (corrected sectional analysis)
+M_y_std  = 444.561 kNm
+Q_k_LM1  = 2863 kNm
+Q_k_WIM  = 1673.42 kNm
+
+Evaluating reliability via MCMC (1e8 samples)...
+
+Step  M_PL(kNm) f_WIM  f_LM1  β_during  β_after  β_lower  accept_rate
+----------------------------------------------------------------------
+1     898.0     0.537  0.314   4.36         2.68       -3.36        0.548
+2     1921.3    1.15   0.671   1.88         3.37        2.12        0.538
+3     2480.4    1.48   0.866   0.821        4.40        3.77        0.484
+4     2738.1    1.64   0.956   0.384        4.83        4.37        0.443
+5     3029.4    1.81   1.059  -0.076        5.33        5.00        0.397
+
+Time elapsed: 437 seconds
