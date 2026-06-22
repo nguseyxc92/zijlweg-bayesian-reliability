@@ -1,9 +1,13 @@
 # 🌉 Bayesian Reliability Updating of the Zijlweg Viaduct
 
 **Author:** Neguse Solomon Mekonnen
+
 **Programme:** NoRisk Erasmus Mundus Joint Master's Programme
+
 **Supervisors:** Dr. Eva Lantsoght, Dr. Rolando Chacón
-**Year:** 2026
+
+**Year:** June 22, 2026
+
 **Status:** Final Dissertation Submission, 2026
 
 ## Overview
