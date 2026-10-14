@@ -16,7 +16,7 @@ This repository contains the code, datasets, and results developed for the Maste
 
 **Bayesian Reliability Updating of Bridge Structural Reliability Using Monitoring Data and Stop Criteria: A Case Study of the Zijlweg Viaduct**
 
-The research applies the Bayesian reliability updating framework proposed by De Vries et al. (2025) to monitoring data obtained during the 2015 proof load test of the Zijlweg viaduct, an alkali-silica reaction (ASR) affected reinforced concrete slab bridge located in Noord Brabant, the Netherlands.
+The research applies the Bayesian reliability updating framework proposed by De Vries et al. [1] to monitoring data obtained during the 2015 proof load test [2] of the Zijlweg viaduct, an alkali-silica reaction (ASR) affected reinforced concrete slab bridge located in Noord Brabant, the Netherlands.
 
 ## Research Objectives
 
@@ -136,8 +136,8 @@ Mekonnen, N. S. (2026). *Bayesian Reliability Updating of Bridge Structural Reli
 
 ## References
 
-* De Vries, R., et al. (2025). *Structural reliability updating on the basis of proof load testing and monitoring data*. Engineering Structures, 330, 119863.
-* Lantsoght, E. O. L., et al. (2017). *Towards standardisation of proof load testing: Pilot test on viaduct Zijlweg*. Structure and Infrastructure Engineering, 14(3), 365-380.
+* [1] De Vries, R., et al. (2025). *Structural reliability updating on the basis of proof load testing and monitoring data*. Engineering Structures, 330, 119863.
+* [2] Lantsoght, E. O. L., et al. (2017). *Towards standardisation of proof load testing: Pilot test on viaduct Zijlweg*. Structure and Infrastructure Engineering, 14(3), 365-380.
 
 ## 📜 License
 
