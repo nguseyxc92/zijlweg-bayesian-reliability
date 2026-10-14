@@ -137,6 +137,7 @@ Mekonnen, N. S. (2026). *Bayesian Reliability Updating of Bridge Structural Reli
 ## References
 
 [1] De Vries, R., et al. (2025). *Structural reliability updating on the basis of proof load testing and monitoring data*. Engineering Structures, 330, 119863.
+
 [2] Lantsoght, E. O. L., et al. (2017). *Towards standardisation of proof load testing: Pilot test on viaduct Zijlweg*. Structure and Infrastructure Engineering, 14(3), 365-380.
 
 ## 📜 License
